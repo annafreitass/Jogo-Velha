@@ -1,0 +1,16 @@
+C:\Users\anna.lfreitas\Documents\Confianca\JogoDaMemoria\JogoVelha\JogoVelha\bin\Debug\net8.0-windows\JogoVelha.exe
+C:\Users\anna.lfreitas\Documents\Confianca\JogoDaMemoria\JogoVelha\JogoVelha\bin\Debug\net8.0-windows\JogoVelha.deps.json
+C:\Users\anna.lfreitas\Documents\Confianca\JogoDaMemoria\JogoVelha\JogoVelha\bin\Debug\net8.0-windows\JogoVelha.runtimeconfig.json
+C:\Users\anna.lfreitas\Documents\Confianca\JogoDaMemoria\JogoVelha\JogoVelha\bin\Debug\net8.0-windows\JogoVelha.dll
+C:\Users\anna.lfreitas\Documents\Confianca\JogoDaMemoria\JogoVelha\JogoVelha\bin\Debug\net8.0-windows\JogoVelha.pdb
+C:\Users\anna.lfreitas\Documents\Confianca\JogoDaMemoria\JogoVelha\JogoVelha\obj\Debug\net8.0-windows\JogoVelha.FrmJogo.resources
+C:\Users\anna.lfreitas\Documents\Confianca\JogoDaMemoria\JogoVelha\JogoVelha\obj\Debug\net8.0-windows\JogoVelha.csproj.GenerateResource.cache
+C:\Users\anna.lfreitas\Documents\Confianca\JogoDaMemoria\JogoVelha\JogoVelha\obj\Debug\net8.0-windows\JogoVelha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anna.lfreitas\Documents\Confianca\JogoDaMemoria\JogoVelha\JogoVelha\obj\Debug\net8.0-windows\JogoVelha.AssemblyInfoInputs.cache
+C:\Users\anna.lfreitas\Documents\Confianca\JogoDaMemoria\JogoVelha\JogoVelha\obj\Debug\net8.0-windows\JogoVelha.AssemblyInfo.cs
+C:\Users\anna.lfreitas\Documents\Confianca\JogoDaMemoria\JogoVelha\JogoVelha\obj\Debug\net8.0-windows\JogoVelha.csproj.CoreCompileInputs.cache
+C:\Users\anna.lfreitas\Documents\Confianca\JogoDaMemoria\JogoVelha\JogoVelha\obj\Debug\net8.0-windows\JogoVelha.dll
+C:\Users\anna.lfreitas\Documents\Confianca\JogoDaMemoria\JogoVelha\JogoVelha\obj\Debug\net8.0-windows\refint\JogoVelha.dll
+C:\Users\anna.lfreitas\Documents\Confianca\JogoDaMemoria\JogoVelha\JogoVelha\obj\Debug\net8.0-windows\JogoVelha.pdb
+C:\Users\anna.lfreitas\Documents\Confianca\JogoDaMemoria\JogoVelha\JogoVelha\obj\Debug\net8.0-windows\JogoVelha.genruntimeconfig.cache
+C:\Users\anna.lfreitas\Documents\Confianca\JogoDaMemoria\JogoVelha\JogoVelha\obj\Debug\net8.0-windows\ref\JogoVelha.dll
